@@ -42,34 +42,34 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
-<h3>🧠 大语言模型与 AI 系统</h3>
-<p>🔬 专注于 <strong>大型语言模型(LLMs)训练</strong></p>
-<p>🤖 探索 <strong>多智能体系统架构</strong></p>
-<p>🌐 开发 <strong>AI 应用的高效推理引擎</strong></p>
-<p>📊 实践 <strong>强化学习与 RLHF</strong></p>
+<h3>🧠 智能算法与感知</h3>
+<p>🔬 钻研 <strong>深度学习与机器学习</strong>模型原理</p>
+<p>👁️ 探索 <strong>计算机视觉与 3DGS 动态建模</strong></p>
+<p>📝 实践 <strong>自然语言处理与多模态数据分析</strong></p>
+<p>📊 实施 <strong>全链路数据工程与模型特征微调</strong></p>
 <p>⚡ 热衷于 <strong>AI 模型部署与工程化实践</strong></p>
 
 </td>
 <td width="34%" valign="top">
 
-<h3>🧪 深度学习与机器学习</h3>
-<p>🔍 钻研 <strong>计算机视觉与图像识别</strong>技术</p>
-<p>📝 实现 <strong>自然语言处理与文本分析</strong></p>
-<p>📈 应用 <strong>时间序列预测与异常检测</strong></p>
-<p>🧮 优化 <strong>神经网络架构与训练策略</strong></p>
-<p>🔄 探索 <strong>迁移学习与少样本学习</strong></p>
+<h3>🤖 机器人与具身智能</h3>
+<p>🔍 研发 <strong>非结构化环境感知与自主导航系统</strong></p>
+<p>🚀 搭建 <strong>智能机器人全栈架构</strong></p>
+ <p>🗺️ 研究 <strong>SLAM 建图与高精度空间重定位</strong></p>
+<p>🎮 构建 <strong>高物理保真度仿真引擎与交互管线</strong></p>
+<p>🔄 探索 <strong>智能体决策系统与仿真-实车迁移闭环</strong></p>
 
 </td>
-<td width="35%" valign="top">
+<td width="33%" valign="top">
 
-<h3>💾 数据库与系统</h3>
-<p>🛢️ 设计 <strong>分布式数据库</strong>架构方案</p>
-<p>🔍 研究 <strong>向量数据库与相似性搜索</strong></p>
-<p>📈 优化 <strong>大规模数据处理</strong>流程</p>
-<p>🔄 开发 <strong>高性能数据分析</strong>平台</p>
-<p>🌐 构建 <strong>知识图谱与语义检索</strong>系统</p>
+<h3>💻 系统底层与架构</h3>
+<p>🛠️ 设计 <strong>RISC-V/MIPS 处理器微架构与硬件加速</strong></p>
+<p>💾 开发 <strong>多核调度与全功能底层的系统内核</strong></p>
+<p>🛢️ 构建 <strong>数据库引擎与高并发系统后台</strong></p>
+<p>📡 剖析 <strong>网络协议栈分析与底层性能调优</strong></p>
+<p>🧮 探索 <strong>软硬件协同设计与异构算力优化</strong></p>
 
 </td>
 </tr>
@@ -127,8 +127,26 @@
   <a href="https://github.com/kolp323/flow-skill">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=flow-skill&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="flow-skill repository card" />
   </a>
+  <a href="https://github.com/kolp323/Apex-ROS2">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Apex-ROS2&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="Apex-ROS2 repository card" />
+  </a>
+  <a href="https://github.com/kolp323/ReSMOTE-DR">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=ReSMOTE-DR&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="ReSMOTE-DR repository card" />
+  </a>
   <a href="https://github.com/kolp323/Cambricon-MLU-Kernel-Labs">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Cambricon-MLU-Kernel-Labs&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="Cambricon-MLU-Kernel-Labs repository card" />
+  </a>
+  <a href="https://github.com/kolp323/RISC-V32-CPU-FPGA">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=RISC-V32-CPU-FPGA&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="RISC-V32-CPU-FPGA repository card" />
+  </a>
+  <a href="https://github.com/kolp323/RISC-V-QEMU-Kernel">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=RISC-V-QEMU-Kernel&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="RISC-V-QEMU-Kernel repository card" />
+  </a>
+  <a href="https://github.com/kolp323/ClipOCR">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=ClipOCR&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="ClipOCR repository card" />
+  </a>
+  <a href="https://github.com/kolp323/Personalized-News-Headline-Generation">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Personalized-News-Headline-Generation&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="Personalized-News-Headline-Generation repository card" />
   </a>
 </div>
 
