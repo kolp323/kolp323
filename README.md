@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=kolp&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=%E5%8F%8A%E6%97%B6%E6%AD%A2%E6%8D%9F%EF%BC%8C%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83&descAlignY=55" alt="kolp profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=kolp&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=Stay hungry, stay foolish.&descAlignY=55" alt="kolp profile banner" />
   
   # 👋 Hello, here is kolp
   
