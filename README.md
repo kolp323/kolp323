@@ -55,18 +55,18 @@
 <td width="34%" valign="top">
 
 <h3>🤖 机器人与具身智能</h3>
-<p>🔍 研发 <strong>非结构化环境感知与自主导航系统</strong></p>
+<p>🔍 研发 <strong>非结构化环境感知与自主导航</strong></p>
 <p>🚀 搭建 <strong>智能机器人全栈架构</strong></p>
  <p>🗺️ 研究 <strong>SLAM 建图与高精度空间重定位</strong></p>
-<p>🎮 构建 <strong>高物理保真度仿真引擎与交互管线</strong></p>
-<p>🔄 探索 <strong>智能体决策系统与仿真-实车迁移闭环</strong></p>
+<p>🎮 构建 <strong>高物理保真仿真引擎与交互管线</strong></p>
+<p>🔄 探索 <strong>智能体决策系统与仿真-实车迁移</strong></p>
 
 </td>
 <td width="33%" valign="top">
 
 <h3>💻 系统底层与架构</h3>
-<p>🛠️ 设计 <strong>RISC-V/MIPS 处理器微架构与硬件加速</strong></p>
-<p>💾 开发 <strong>多核调度与全功能底层的系统内核</strong></p>
+<p>🛠️ 实践 <strong>RISC-V CPU 微架构与硬件加速</strong></p>
+<p>💾 开发 <strong>全功能的多核调度系统内核</strong></p>
 <p>🛢️ 构建 <strong>数据库引擎与高并发系统后台</strong></p>
 <p>📡 剖析 <strong>网络协议栈分析与底层性能调优</strong></p>
 <p>🧮 探索 <strong>软硬件协同设计与异构算力优化</strong></p>
