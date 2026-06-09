@@ -1,16 +1,15 @@
 <div align="center">
   
   <!-- 增强标题横幅 - 使用更动感的渐变色 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=kolp&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=及时止损，渐入佳境&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=kolp&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=%E5%8F%8A%E6%97%B6%E6%AD%A2%E6%8D%9F%EF%BC%8C%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83&descAlignY=55" alt="kolp profile banner" />
   
   # 👋 Hello, here is kolp
   
   <!-- 更改轮播内容和动画速度 -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI%E5%88%9D%E5%AD%A6%E8%80%85+%7C+DB%E7%A0%94%E7%A9%B6%E8%80%85+%7C+%E5%88%9B%E6%96%B0%E8%80%85;%E6%8E%A2%E7%B4%A2%E7%A7%91%E6%8A%80%E8%BE%B9%E7%95%8C%EF%BC%8C%E6%89%93%E9%80%A0%E7%B2%BE%E5%BD%A9%E4%BD%93%E9%AA%8C;%E4%BB%A3%E7%A0%81%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E5%88%9B%E6%84%8F%E9%A9%B1%E5%8A%A8%E6%9C%AA%E6%9D%A5;%E6%B0%B8%E8%BF%9C%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%E5%BF%83%EF%BC%8C%E5%81%9A%E6%9C%80%E9%85%B7%E7%9A%84%E9%A1%B9%E7%9B%AE)](https://git.io/typing-svg)
 
   <!-- 动感社交媒体按钮 - 增加阴影和悬停效果 -->
   <p align="center">
-    <p align="center">
     <a href="https://github.com/kolp323"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <!-- 如果您有以下账号，可以取消注释并填入您的真实链接
     <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -19,11 +18,10 @@
     <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
     -->
-    </p>
   </p>
 
 <!-- 动态访问计数器 - 增强效果 -->
-  <p>
+  <!-- <p>
     <img src="https://komarev.com/ghpvc/?username=kolp323&style=for-the-badge&color=blueviolet" alt="访问计数器" />
     <img src="https://img.shields.io/github/followers/kolp323?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
     <img src="https://img.shields.io/github/stars/kolp323?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
@@ -31,7 +29,7 @@
   </p>
   <p>
   <img src="https://profile-counter.glitch.me/{kolp323}/count.svg" alt="访问计数器" />
-  </p>
+  </p> -->
 </div>
 
 <!-- 添加动态波浪分隔符 -->
@@ -46,35 +44,32 @@
 <tr>
 <td width="34%" valign="top">
 
-> ### 🧠 大语言模型与 AI 系统
->
-> 🔬 专注于 **大型语言模型(LLMs)训练**
-> 🤖 探索 **多智能体系统架构**  
-> 🌐 开发 **AI 应用的高效推理引擎**  
-> 📊 实践 **强化学习与 RLHF**  
-> ⚡ 热衷于 **AI 模型部署与工程化实践**
+<h3>🧠 大语言模型与 AI 系统</h3>
+<p>🔬 专注于 <strong>大型语言模型(LLMs)训练</strong></p>
+<p>🤖 探索 <strong>多智能体系统架构</strong></p>
+<p>🌐 开发 <strong>AI 应用的高效推理引擎</strong></p>
+<p>📊 实践 <strong>强化学习与 RLHF</strong></p>
+<p>⚡ 热衷于 <strong>AI 模型部署与工程化实践</strong></p>
 
 </td>
 <td width="34%" valign="top">
 
-> ### 🧪 深度学习与机器学习
->
-> 🔍 钻研 **计算机视觉与图像识别**技术
-> 📝 实现 **自然语言处理与文本分析**  
-> 📈 应用 **时间序列预测与异常检测**  
-> 🧮 优化 **神经网络架构与训练策略**  
-> 🔄 探索 **迁移学习与少样本学习**
+<h3>🧪 深度学习与机器学习</h3>
+<p>🔍 钻研 <strong>计算机视觉与图像识别</strong>技术</p>
+<p>📝 实现 <strong>自然语言处理与文本分析</strong></p>
+<p>📈 应用 <strong>时间序列预测与异常检测</strong></p>
+<p>🧮 优化 <strong>神经网络架构与训练策略</strong></p>
+<p>🔄 探索 <strong>迁移学习与少样本学习</strong></p>
 
 </td>
 <td width="35%" valign="top">
 
-> ### 💾 数据库与系统
->
-> 🛢️ 设计 **分布式数据库**架构方案  
-> 🔍 研究 **向量数据库与相似性搜索**
-> 📈 优化 **大规模数据处理**流程  
-> 🔄 开发 **高性能数据分析**平台  
-> 🌐 构建 **知识图谱与语义检索**系统
+<h3>💾 数据库与系统</h3>
+<p>🛢️ 设计 <strong>分布式数据库</strong>架构方案</p>
+<p>🔍 研究 <strong>向量数据库与相似性搜索</strong></p>
+<p>📈 优化 <strong>大规模数据处理</strong>流程</p>
+<p>🔄 开发 <strong>高性能数据分析</strong>平台</p>
+<p>🌐 构建 <strong>知识图谱与语义检索</strong>系统</p>
 
 </td>
 </tr>
@@ -88,7 +83,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,mysql,mongodb,linux,ubuntu,bash,git,github,vscode,docker,latex&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,mysql,mongodb,linux,ubuntu,bash,git,github,vscode,docker,latex&perline=9" alt="Skills and tools" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
@@ -113,15 +108,14 @@
 <!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
 <div align="center">
 <!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolp323&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolp323&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolp323&theme=radical" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolp323&theme=radical" width="33%" alt="GitHub profile stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolp323&theme=radical" width="33%" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolp323&theme=radical" width="33%" alt="Top languages by commit" />
 
 </div>
   
   <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kolp323&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=kolp323&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
 
 <!-- 项目展示部分 - 统一标题样式并对齐图标 -->
 <h2 align="center">
@@ -131,10 +125,10 @@
 
 <div align="center">
   <a href="https://github.com/kolp323/flow-skill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kolp323&repo=flow-skill&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=flow-skill&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="flow-skill repository card" />
   </a>
   <a href="https://github.com/kolp323/Cambricon-MLU-Kernel-Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kolp323&repo=Cambricon-MLU-Kernel-Labs&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Cambricon-MLU-Kernel-Labs&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="Cambricon-MLU-Kernel-Labs repository card" />
   </a>
 </div>
 
@@ -161,7 +155,7 @@
 </picture>
 
 <!-- 实时贡献日历热图 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolp323&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolp323&theme=radical" width="100%" alt="GitHub profile details" />
 </div>
 
 <!-- 使用SVG制作的动态语录 -->
@@ -180,14 +174,7 @@
   <i>让我们一起探索代码的无限可能!✨</i> 
 </p>
 
-<!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
-
-<!-- 动态分隔符 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
+<!-- 致谢 -->
 <h2 id="致谢" align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   致谢
@@ -199,4 +186,4 @@
 </div>
 
 <!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%" alt="Footer wave" />
