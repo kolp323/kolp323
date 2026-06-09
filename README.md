@@ -125,28 +125,28 @@
 
 <div align="center">
   <a href="https://github.com/kolp323/flow-skill">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=flow-skill&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="flow-skill repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=flow-skill&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="flow-skill repository card" />
   </a>
   <a href="https://github.com/kolp323/Apex-ROS2">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Apex-ROS2&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="Apex-ROS2 repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Apex-ROS2&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="Apex-ROS2 repository card" />
   </a>
   <a href="https://github.com/kolp323/ReSMOTE-DR">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=ReSMOTE-DR&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="ReSMOTE-DR repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=ReSMOTE-DR&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="ReSMOTE-DR repository card" />
   </a>
   <a href="https://github.com/kolp323/Cambricon-MLU-Kernel-Labs">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Cambricon-MLU-Kernel-Labs&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="Cambricon-MLU-Kernel-Labs repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Cambricon-MLU-Kernel-Labs&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="Cambricon-MLU-Kernel-Labs repository card" />
   </a>
   <a href="https://github.com/kolp323/RISC-V32-CPU-FPGA">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=RISC-V32-CPU-FPGA&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="RISC-V32-CPU-FPGA repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=RISC-V32-CPU-FPGA&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="RISC-V32-CPU-FPGA repository card" />
   </a>
   <a href="https://github.com/kolp323/RISC-V-QEMU-Kernel">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=RISC-V-QEMU-Kernel&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="RISC-V-QEMU-Kernel repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=RISC-V-QEMU-Kernel&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="RISC-V-QEMU-Kernel repository card" />
   </a>
   <a href="https://github.com/kolp323/ClipOCR">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=ClipOCR&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="ClipOCR repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=ClipOCR&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="ClipOCR repository card" />
   </a>
   <a href="https://github.com/kolp323/Personalized-News-Headline-Generation">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Personalized-News-Headline-Generation&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" alt="Personalized-News-Headline-Generation repository card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=kolp323&repo=Personalized-News-Headline-Generation&theme=radical&hide_border=true&title_color=FF5F6D&v=11" width="49%" alt="Personalized-News-Headline-Generation repository card" />
   </a>
 </div>
 
