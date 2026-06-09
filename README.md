@@ -42,34 +42,34 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" nowrap>
 
 <h3>🧠 智能算法与感知</h3>
-<p>🔬 钻研 <strong>深度学习与机器学习</strong>模型原理</p>
-<p>👁️ 探索 <strong>计算机视觉与 3DGS 动态建模</strong></p>
-<p>📝 实践 <strong>自然语言与多模态数据分析</strong></p>
-<p>📊 实施 <strong>全链路数据工程与模型微调</strong></p>
-<p>⚡ 热衷于 <strong>AI 模型部署与工程化实践</strong></p>
+🔬 钻研 <strong>深度学习与机器学习</strong>模型原理<br><br>
+👁️ 探索 <strong>计算机视觉与 3DGS 动态建模</strong><br><br>
+📝 实践 <strong>自然语言处理与多模态数据分析</strong><br><br>
+📊 实施 <strong>全链路数据工程与模型特征微调</strong><br><br>
+⚡ 热衷于 <strong>AI 模型部署与工程化实践</strong>
 
 </td>
-<td width="34%" valign="top">
+<td width="33%" valign="top" nowrap>
 
 <h3>🤖 机器人与具身智能</h3>
-<p>🔍 研发 <strong>非结构化环境感知与自主导航</strong></p>
-<p>🚀 搭建 <strong>智能机器人全栈架构</strong></p>
- <p>🗺️ 研究 <strong>SLAM 建图与高精度空间重定位</strong></p>
-<p>🎮 构建 <strong>高物理保真仿真引擎与交互管线</strong></p>
-<p>🔄 探索 <strong>智能体决策系统与仿真-实车迁移</strong></p>
+🔍 研发 <strong>非结构化环境感知与自主导航</strong><br><br>
+🚀 搭建 <strong>智能机器人全栈架构</strong><br><br>
+🗺️ 研究 <strong>SLAM 建图与高精度空间重定位</strong><br><br>
+🎮 构建 <strong>高物理保真仿真引擎与交互管线</strong><br><br>
+🔄 探索 <strong>智能体决策系统与仿真-实车迁移</strong>
 
 </td>
-<td width="35%" valign="top">
+<td width="34%" valign="top" nowrap>
 
 <h3>💻 系统底层与架构</h3>
-<p>🛠️ 实践 <strong>RISC-V CPU 微架构与硬件加速</strong></p>
-<p>💾 开发 <strong>全功能的多核调度系统内核</strong></p>
-<p>🛢️ 构建 <strong>数据库引擎与高并发系统后台</strong></p>
-<p>📡 剖析 <strong>网络协议栈分析与底层性能调优</strong></p>
-<p>🧮 探索 <strong>软硬件协同设计与异构算力优化</strong></p>
+🛠️ 实践 <strong>RISC-V CPU 微架构与硬件加速</strong><br><br>
+💾 开发 <strong>全功能的多核调度系统内核</strong><br><br>
+🛢️ 构建 <strong>数据库引擎与高并发系统后台</strong><br><br>
+📡 剖析 <strong>网络协议栈分析与底层性能调优</strong><br><br>
+🧮 探索 <strong>软硬件协同设计与异构算力优化</strong>
 
 </td>
 </tr>
