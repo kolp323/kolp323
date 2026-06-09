@@ -88,7 +88,7 @@
 
 <div align="center">
   <!-- 使用更美观的动态技能图标 -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,pytorch,tensorflow,mongodb,linux,matlab,html,css,js,git,vscode,latex,github,docker&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,mysql,mongodb,linux,ubuntu,bash,git,github,vscode,docker,latex&perline=9" />
   
   <!-- 添加技能动画卡片 - 改进布局 -->
   
@@ -197,11 +197,6 @@
   <p>特别感谢本主页模板的原作者！</p>
   <p>👉 <a href="https://github.com/Jeysom-feng/jeysom-github-io#">https://github.com/Jeysom-feng/jeysom-github-io</a></p>
 </div>
-
-<!-- 页脚 -->
-<p align="center">
-  <i>如果您觉得这个模板有帮助，请考虑给一个⭐️支持一下!</i> 
-</p>
 
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
