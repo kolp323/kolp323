@@ -42,7 +42,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 <h3>🧠 智能算法与感知</h3>
 <p>🔬 钻研 <strong>深度学习与机器学习</strong>模型原理</p>
@@ -62,7 +62,7 @@
 <p>🔄 探索 <strong>智能体决策系统与仿真-实车迁移</strong></p>
 
 </td>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 <h3>💻 系统底层与架构</h3>
 <p>🛠️ 实践 <strong>RISC-V CPU 微架构与硬件加速</strong></p>
