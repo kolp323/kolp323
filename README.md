@@ -47,8 +47,8 @@
 <h3>🧠 智能算法与感知</h3>
 <p>🔬 钻研 <strong>深度学习与机器学习</strong>模型原理</p>
 <p>👁️ 探索 <strong>计算机视觉与 3DGS 动态建模</strong></p>
-<p>📝 实践 <strong>自然语言处理与多模态数据分析</strong></p>
-<p>📊 实施 <strong>全链路数据工程与模型特征微调</strong></p>
+<p>📝 实践 <strong>自然语言与多模态数据分析</strong></p>
+<p>📊 实施 <strong>全链路数据工程与模型微调</strong></p>
 <p>⚡ 热衷于 <strong>AI 模型部署与工程化实践</strong></p>
 
 </td>
