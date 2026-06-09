@@ -62,7 +62,7 @@
 <p>🔄 探索 <strong>智能体决策系统与仿真-实车迁移</strong></p>
 
 </td>
-<td width="34%" valign="top">
+<td width="35%" valign="top">
 
 <h3>💻 系统底层与架构</h3>
 <p>🛠️ 实践 <strong>RISC-V CPU 微架构与硬件加速</strong></p>
