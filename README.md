@@ -42,7 +42,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="34%" valign="top">
+<td width="33%" valign="top">
 
 <h3>🧠 智能算法与感知</h3>
 <p>🔬 钻研 <strong>深度学习与机器学习</strong>模型原理</p>
